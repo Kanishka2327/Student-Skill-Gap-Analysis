@@ -50,6 +50,10 @@ A skill gap analysis report is generated.
 
 The interface is deployed using Streamlit for easy interaction.
 
+Images:
+![image](https://github.com/user-attachments/assets/55faf02e-caa9-4609-95c4-97ae1a602af4)
+
+
 🚀 Getting Started
 
 
